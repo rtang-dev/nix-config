@@ -94,8 +94,11 @@
       # secret managements
       "1password-cli" 
 
-      # Zed IDE
-      "zed"
+      # Mathpix formula OCR
+      "mathpix-snipping-tool"
+
+      # Anaconda
+      "anaconda"
     ];
   };
 }
