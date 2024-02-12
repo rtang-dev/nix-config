@@ -99,6 +99,10 @@
 
       # Anaconda
       "anaconda"
+      # a window manager
+      "rectangle"
+      # EDITOR
+      "ghidra"
     ];
   };
 }
