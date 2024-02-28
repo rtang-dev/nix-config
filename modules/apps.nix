@@ -62,6 +62,8 @@
       "aria2" # download tool
       "httpie" # http client
       "gradle"
+      "choose-gui"
+      "fswatch"
     ];
 
     # `brew install --cask`
@@ -113,8 +115,7 @@
       "hammerspoon"
       "zed"
       "inkscape"
-      "choose-gui"
-      "fswatch"
+      
 
     ];
   };
