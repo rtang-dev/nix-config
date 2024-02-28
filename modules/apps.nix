@@ -112,6 +112,7 @@
       "notion-calendar"
       "hammerspoon"
       "zed"
+      "inkscape"
 
     ];
   };
