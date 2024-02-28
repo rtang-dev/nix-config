@@ -106,6 +106,13 @@
       "ghidra"
 
       "spotify"
+      "protonvpn"
+      "iterm2"
+      "notion"
+      "notion-calendar"
+      "hammerspoon"
+      "zed"
+
     ];
   };
 }
