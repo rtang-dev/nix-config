@@ -113,6 +113,8 @@
       "hammerspoon"
       "zed"
       "inkscape"
+      "choose-gui"
+      "fswatch"
 
     ];
   };
