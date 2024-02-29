@@ -115,7 +115,7 @@
       "hammerspoon"
       "zed"
       "inkscape"
-      
+      "warp"
 
     ];
   };
