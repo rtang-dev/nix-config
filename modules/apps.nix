@@ -116,6 +116,7 @@
       "zed"
       "inkscape"
       "warp"
+      "texmacs"
 
     ];
   };
