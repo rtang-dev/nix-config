@@ -117,6 +117,7 @@
       "inkscape"
       "warp"
       "texmacs"
+      "etcher"
 
     ];
   };
