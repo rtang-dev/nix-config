@@ -118,6 +118,8 @@
       "warp"
       "texmacs"
       "balenaetcher"
+      "whatsapp"
+      "bbedit"
 
     ];
   };
